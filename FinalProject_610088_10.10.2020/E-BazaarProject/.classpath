@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/asm.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/creditVerifSystem.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javaee-api-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/jess.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/junit.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/mockito-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/rulesencoding.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/rulesengine.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/MUM/SWE/HAN/Final Project/FinalProject_610088_10.10.2020/E-BazaarProject/src/extlibs/slf4j-jdk14-1.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
